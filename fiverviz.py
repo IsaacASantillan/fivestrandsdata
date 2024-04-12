@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 from parser_1 import df, sizesselection, countiesselection
 import seaborn as sns 
-from matplotlib import pyplot as plt
-import matplotlib.ticker as ticker
 import numpy as np
 
 st.title("""
